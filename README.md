@@ -9,9 +9,6 @@ I have a love-hate relationship with coding. Guess I'm the only one to have that
 * 🌍  I'm based in Republic of Ireland
 * 🧠  I'm currently learning PyQt6 - sounddevice, and pyaudio
 
-<a href="https://www.github.com/barrackmobamba69" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/barrackmobamba69?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 
